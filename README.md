@@ -1,7 +1,7 @@
 ---
 sdk: gradio
-sdk_version: 3.29.0
-app_file: app.py
+sdk_version: GRADIO-VERSION
+app_file: PATH-TO-APP-FILE
 ---
 
 ## Links
